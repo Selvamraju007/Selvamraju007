@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Selvam Raju (https://www.linkedin.com/in/selvam-r-b4827288/) You can call me Selvam</h1>
+<h1 align="center">Hi 👋, I'm Selvam Raju (https://www.linkedin.com/in/selvamraju007/) You can call me Selvam</h1>
 <h3 align="center">Having 10+ years of professional experience in IT</h3>
 
 - 📝 I regularly write articles on [https://medium.com/@selvamraju007](https://medium.com/@selvamraju007)
