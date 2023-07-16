@@ -63,15 +63,15 @@ India Resident.
 
 :mailbox: Mail - selvamraju007@gmail.com <br />
 📝 I regularly write DevOps and Cloud Blogs on [https://medium.com/@selvamraju007](https://medium.com/@selvamraju007) <br />
-📝 I consistently share my DevOps and Cloud Contents [https://www.linkedin.com/in/selvamraju007/] (https://www.linkedin.com/in/selvamraju007/) <br />
+📝 I consistently share my DevOps and Cloud Contents [https://www.linkedin.com/in/selvamraju007/] <br />
 
 ## My TECHNICAL CONTRIBUTION - AWS - Amazon Web Services (AWS) 
 
-  𝗟𝗶𝗻𝗸𝗲𝗱𝗶𝗻 𝗔𝗪𝗦 𝗖𝗼𝗻𝘁𝗲𝗻𝘁 𝗖𝗿𝗲𝗮𝘁𝗶𝗼𝗻 - 🌟Connect with me via Linkedin **[Selvam Raju](https://www.linkedin.com/in/selvamraju007/)** for consistent Learnings & contents on DevOps
-- [AWS Cloud Services - Data Bricks on AWS (Data Bricks on AWS)](https://shorturl.ac/7an5e)
-- [AWS Cloud Services - AWS Postgre SQL](https://shorturl.ac/7an5u)
-- [AWS Cloud Services - AWS Aurora](https://shorturl.ac/7an5y)
-- [AWS Cloud Services - Amazon RDS Series](https://shorturl.ac/7an60)
+  𝗟𝗶𝗻𝗸𝗲𝗱𝗶𝗻 DevOps and Cloud 𝗖𝗼𝗻𝘁𝗲𝗻𝘁 𝗖𝗿𝗲𝗮𝘁𝗶𝗼𝗻 - 🌟Connect with me via Linkedin **[Selvam Raju](https://www.linkedin.com/in/selvamraju007/)** for consistent Learnings & contents on DevOps
+- [DevOps - Terraform variables (Terraform)](https://www.linkedin.com/posts/selvamraju007_learning-terraform-task-activity-7010100893433962497-dbSw?utm_source=share&utm_medium=member_desktop)
+- [DevOps - Ansible automation](https://www.linkedin.com/posts/selvamraju007_ansible-ansibleautomation-letsgrowtogether-activity-7010880255783575552-b1xr?utm_source=share&utm_medium=member_desktop)
+- [DevOps - Ansible automation](https://www.linkedin.com/posts/selvamraju007_ansible-ansibleautomation-letsgrowtogether-activity-7011699383511527424-dQmP?utm_source=share&utm_medium=member_desktop)
+- [DevOps - Kubernetes Helm](https://www.linkedin.com/posts/selvamraju007_kubernetes-helm-letsgrowtogether-activity-7012060447621222400-WU5z?utm_source=share&utm_medium=member_desktop)
 - [AWS Cloud Services - AWS S3 (S3 Core Concepts)](https://shorturl.ac/7an5f)
 - [AWS Cloud Services - NoSQL database series in AWS](https://shorturl.ac/7an5n)
 - [AWS Cloud Services - AWS VPC and its Components Explained](https://rb.gy/1w872)
