@@ -42,35 +42,32 @@ India Resident.
 
 ## 𝐓ECHNICAL SKILLS
 
-• AWS, DevOps, CI/CD <br />
-• AWS Lambda, S3, Glue,Snowflake, EMR, Sagemaker,DynamoDB, RDS, Athena, Redshift, IAM, VPC, ec2,SNS,SQS,Fargate,AWS Lake Formation <br />
-• Programming : Python , SQL, Linux <br />
-• Citrix – XenApp & XenDesktop, VMWare, HyperV, Windows, Active Directory, SCCM, SCOM <br />
-• JIRA, HP ALM, ServiceNow <br />
+• DevOps, CI/CD, AWS <br />
+• Docker, Kubernetes, Ansible, Jenkins, GitHub, Terraform, Crossplane, FluxCD, Linkerd, cert-mamager and Falcon <br />
+• Programming : shell, JSON, YAML, Linux <br />
+• Windows Server, VMWARE, NetBackup <br />
+• JIRA, ServiceNow <br />
 • Agile Service Delivery <br /> 
 
 ## Connect with Me & Community 🤝🏻! 
-<a href="https://github.com/jananitv20/" target="_blank">
+<a href="https://github.com/Selvamraju007/" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.linkedin.com/in/jananitv/" target="_blank">
+<a href="https://www.linkedin.com/in/selvamraju007/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-
-<a href="https://www.instagram.com/janani_vasudevan20/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 
 <a href="https://www.youtube.com/user/cloudnloud" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a> 
 
-:mailbox: Mail - steffi.janani@gmail.com <br />
-📝 I regularly write AWS Blogs on [https://medium.com/@JananiTV](https://medium.com/@JananiTV) <br />
-📝 I consistently share my AWS Contents [https://www.linkedin.com/in/jananitv/](https://www.linkedin.com/in/jananitv/) <br />
+:mailbox: Mail - selvamraju007@gmail.com <br />
+📝 I regularly write DevOps and Cloud Blogs on [https://medium.com/@selvamraju007](https://medium.com/@selvamraju007) <br />
+📝 I consistently share my DevOps and Cloud Contents [https://www.linkedin.com/in/selvamraju007/] (https://www.linkedin.com/in/selvamraju007/) <br />
 
 ## My TECHNICAL CONTRIBUTION - AWS - Amazon Web Services (AWS) 
 
-  𝗟𝗶𝗻𝗸𝗲𝗱𝗶𝗻 𝗔𝗪𝗦 𝗖𝗼𝗻𝘁𝗲𝗻𝘁 𝗖𝗿𝗲𝗮𝘁𝗶𝗼𝗻 - 🌟Connect with me via Linkedin **[Janani Thesu Vasudevan](https://www.linkedin.com/in/jananitv/)** for consistent Learnings & contents on AWS
+  𝗟𝗶𝗻𝗸𝗲𝗱𝗶𝗻 𝗔𝗪𝗦 𝗖𝗼𝗻𝘁𝗲𝗻𝘁 𝗖𝗿𝗲𝗮𝘁𝗶𝗼𝗻 - 🌟Connect with me via Linkedin **[Selvam Raju](https://www.linkedin.com/in/selvamraju007/)** for consistent Learnings & contents on DevOps
 - [AWS Cloud Services - Data Bricks on AWS (Data Bricks on AWS)](https://shorturl.ac/7an5e)
 - [AWS Cloud Services - AWS Postgre SQL](https://shorturl.ac/7an5u)
 - [AWS Cloud Services - AWS Aurora](https://shorturl.ac/7an5y)
