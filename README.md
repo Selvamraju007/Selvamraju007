@@ -64,68 +64,9 @@ India Resident.
 📝 I regularly write DevOps and Cloud Blogs on [https://medium.com/@selvamraju007](https://medium.com/@selvamraju007) <br />
 📝 I consistently share my DevOps and Cloud Contents [https://www.linkedin.com/in/selvamraju007/] <br />
 
-## My TECHNICAL CONTRIBUTION - AWS - Amazon Web Services (AWS) 
-
-  𝗟𝗶𝗻𝗸𝗲𝗱𝗶𝗻 DevOps and Cloud 𝗖𝗼𝗻𝘁𝗲𝗻𝘁 𝗖𝗿𝗲𝗮𝘁𝗶𝗼𝗻 - 🌟Connect with me via Linkedin **[Selvam Raju](https://www.linkedin.com/in/selvamraju007/)** for consistent Learnings & contents on DevOps
-- [DevOps - Terraform variables (Terraform)](https://www.linkedin.com/posts/selvamraju007_learning-terraform-task-activity-7010100893433962497-dbSw?utm_source=share&utm_medium=member_desktop)
-- [DevOps - Ansible automation](https://www.linkedin.com/posts/selvamraju007_ansible-ansibleautomation-letsgrowtogether-activity-7010880255783575552-b1xr?utm_source=share&utm_medium=member_desktop)
-- [DevOps - Ansible automation](https://www.linkedin.com/posts/selvamraju007_ansible-ansibleautomation-letsgrowtogether-activity-7011699383511527424-dQmP?utm_source=share&utm_medium=member_desktop)
-- [DevOps - Kubernetes Helm](https://www.linkedin.com/posts/selvamraju007_kubernetes-helm-letsgrowtogether-activity-7012060447621222400-WU5z?utm_source=share&utm_medium=member_desktop)
-- [AWS Cloud Services - AWS S3 (S3 Core Concepts)](https://shorturl.ac/7an5f)
-- [AWS Cloud Services - NoSQL database series in AWS](https://shorturl.ac/7an5n)
-- [AWS Cloud Services - AWS VPC and its Components Explained](https://rb.gy/1w872)
-- [AWS Cloud Services - AWS Lambda vs Glue](https://shorturl.ac/7an5g)
-- [AWS Cloud Services - AWS EC2 crisp Explanation](https://rb.gy/t103l)
-- [AWS Cloud Services - AWS Lambda Working flow](https://t.ly/79zZY)
-- [AWS Cloud Services - Types of S3 storage classes](https://rb.gy/blhpe)
-- [AWS Cloud Services - AWS SUMMIT](https://shorturl.ac/7an5k)
-- [AWS Cloud Services - Amazon Athena and Redshift to Query](https://shorturl.ac/7an5l)
-- [AWS Cloud Services - AWS ECR Security](https://shorturl.ac/7an7j)
-- [AWS Cloud Services - AWS Security Management -IAM](https://rb.gy/qx9vv) 
-- [AWS Educator - AWS Skill builder - AWS Workshop - AWS Console](https://shorturl.ac/7an5p)
-- [AWS Cloud Services - AWS Data Pipeline](https://shorturl.ac/7an5q)
-- [AWS Cloud Services - AWS Latest Availability zone and Geographic regions](https://shorturl.ac/7an6e)
-- [AWS Cloud Services - AWS Web Application Firewall](https://shorturl.ac/7an6g)
-- [AWS Cloud Services - Amazon ECS on AWS Fargate](https://shorturl.ac/7an68)
-- [AWS Cloud Services - AWS Elastic Beanstalk](https://shorturl.ac/7an77)
-- [AWS Cloud Services - AWS S3 Bucket Versioning with Example](https://rb.gy/m3bpz)  
-- [AWS Cloud Services - AWS DatawareHouse vs Data lake](https://shorturl.ac/7an63)
-- [AWS Cloud Services - AWS Storage and its types](https://rb.gy/6k5vx)  
-- [AWS Cloud Services - Data lake on AWS](https://shorturl.ac/7an64)
-- [AWS Cloud Services - S3 Storage Classes ](https://rb.gy/r7xf4)
-- [AWS Cloud Services - AWS Top 10 Services for Data Engineers](https://shorturl.ac/7an66)
-- [AWS Cloud Services - AWS 100daysdata challenge](https://shorturl.ac/7an67)
-- [AWS Cloud Services - Generative AI](https://shorturl.ac/7an5w)
-- [AWS Cloud Services - Organized AWS #techtalk show with AWS Amabassador and AWS Community Leaders](https://shorturl.ac/7an69)
-- [AWS Cloud Services - Amazon Sagemaker](https://shorturl.ac/7an6b)
-- [AWS Cloud Services - Amazon Redshift Example](https://t.ly/Fvqo)
-- [AWS Cloud Services - CloudnLoud Tech Community Virtual Meetup world wide](https://shorturl.ac/7an6c)  
-- [AWS Cloud Services - Factors to know while choosing your Database in AWS](https://shorturl.ac/7an6d)
-- [AWS Cloud Services - Amazon Redshift - A Cloud Dataware house Solution](https://shorturl.ac/7an6j)
-- [AWS Cloud Services - Amazon EC2 Mac instance](https://shorturl.ac/7an6n)
-- [AWS Cloud Services - AWS Roadmap to purse Certificate based on levels](https://rb.gy/078rj)
-- [AWS Cloud Services - AWS Training & Certification](https://shorturl.ac/7an6p)
-- [AWS Cloud Services - AWS Snowflake](https://shorturl.ac/7an6s)
-- [AWS Cloud Services - AWS Storage and its types](https://rb.gy/6k5vx)  
-- [AWS Cloud Services - Amazon Kubernetes Service](https://shorturl.ac/7an6w)  
-- [AWS Cloud Services - Amazon CodeWhisperer](https://shorturl.ac/7an6s)
-- [AWS Cloud Services - Amazon EC2 Auto Scaling](https://shorturl.ac/7an6x)
-- [AWS Cloud Services - How AWS Glue works](https://shorturl.ac/7an6y)
-- [AWS Cloud Services - AWS Data Analytics](https://shorturl.ac/7an70)
-- [AWS Cloud Services - AWS S3 Bucket Takeover Vulnerability](https://shorturl.ac/7an74) 
-- [AWS Cloud Services - AWS Cloudwatch](https://shorturl.ac/7an79)  
-- [AWS Cloud Services - AWS Service categories Roadmap](https://t.ly/Wkyf)
-- [AWS Cloud Services - AWS Steps to deploy and Manage application using Beanstalk](https://t.ly/gaXQ)
-- [AWS Cloud Services - How to use AWS Ealstic Beanstalk](https://shorturl.ac/7an7d)
-- [AWS Cloud Services -AWS Lambda now supports Maximun Concurrency for SQS as an Event source ](https://rb.gy/ga1pr)
-- [AWS Cloud Services - AWS EC2 Billing optimization Technique](https://rb.gy/qe7gb)
-- [AWS Cloud  - 𝗦𝗲𝗹𝗲𝗰𝘁𝗲𝗱 𝗳𝗼𝗿 𝗔𝗪𝗦 𝗦𝗵𝗲𝗕𝘂𝗶𝗹𝗱𝘀 𝗠𝗲𝗻𝘁𝗼𝗿𝘀𝗵𝗶𝗽 𝗣𝗿𝗼𝗴𝗿𝗮𝗺 𝟮𝟬𝟮𝟯](https://www.linkedin.com/posts/jananitv_shebuilds-awscloud-knowledge-activity-7082705128964706304-5zJe?utm_source=share&utm_medium=member_desktop)
-- [AWS Cloud Services - AWS Athena Working Flow Explained](https://www.linkedin.com/posts/jananitv_shebuilds-awscloud-knowledge-activity-7082705128964706304-5zJe?utm_source=share&utm_medium=member_desktop)
-  
-
 ## BLOGS
 
-- [AWS Cloud  - AWS Career (𝐑𝐨𝐚𝐝 𝐦𝐚𝐩 𝐭𝐨 𝐛𝐞𝐜𝐨𝐦𝐞 𝐀𝐖𝐒 𝐃𝐚𝐭𝐚 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫- 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝘀𝗸𝗶𝗹𝗹𝘀)](https://medium.com/cloudnloud/want-to-become-a-aws-data-engineer-94f441454334)
+- [DevOps-  (𝐑𝐨𝐚𝐝 𝐦𝐚𝐩 𝐭𝐨 𝐛𝐞𝐜𝐨𝐦𝐞 𝐀𝐖𝐒 𝐃𝐚𝐭𝐚 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫- 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝘀𝗸𝗶𝗹𝗹𝘀)](https://medium.com/cloudnloud/want-to-become-a-aws-data-engineer-94f441454334)
 - [AWS Cloud Services - AWS GLUE (𝗔𝗪𝗦 𝗚𝗹𝘂𝗲 𝗘𝘅𝗽𝗹𝗮𝗶𝗻𝗲𝗱 — 𝗧𝗵𝗲 𝗘𝗧𝗟 𝗣𝗿𝗼𝗰𝗲𝘀𝘀 𝗞𝗲𝘆 𝗖𝗼𝗺𝗽𝗼𝗻𝗲𝗻𝘁𝘀)](https://rb.gy/79pay)
 - [AWS Cloud Services - Amazon QuickSight (𝗔𝗺𝗮𝘇𝗼𝗻 𝗤𝘂𝗶𝗰𝗸𝗦𝗶𝗴𝗵𝘁 — 𝗔 𝗖𝗹𝗼𝘂𝗱 𝗗𝗮𝘁𝗮 𝗩𝗶𝘀𝘂𝗮𝗹𝗶𝘇𝗮𝘁𝗶𝗼𝗻 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝘁 𝗦𝗲𝗿𝘃𝗶𝗰𝗲𝘀)](https://rb.gy/22jzk)
 - [AWS Cloud Services - 𝗔𝗪𝗦 𝗥𝗲𝗱𝘀𝗵𝗶𝗳𝘁 , How to work with streaming data in Redshift](https://rb.gy/9ja9i)
@@ -136,6 +77,24 @@ India Resident.
   **Upcoming Blog** <br />
 How business can make Decision on chossing Databases in AWS <br />
 
+
+## My TECHNICAL CONTRIBUTION - DevOps 
+
+  𝗟𝗶𝗻𝗸𝗲𝗱𝗶𝗻 DevOps and Cloud 𝗖𝗼𝗻𝘁𝗲𝗻𝘁 𝗖𝗿𝗲𝗮𝘁𝗶𝗼𝗻 - 🌟Connect with me via Linkedin **[Selvam Raju](https://www.linkedin.com/in/selvamraju007/)** for consistent Learnings & contents on DevOps
+- [DevOps - Terraform variables (Terraform)](https://www.linkedin.com/posts/selvamraju007_learning-terraform-task-activity-7010100893433962497-dbSw?utm_source=share&utm_medium=member_desktop)
+- [DevOps - Ansible automation](https://www.linkedin.com/posts/selvamraju007_ansible-ansibleautomation-letsgrowtogether-activity-7010880255783575552-b1xr?utm_source=share&utm_medium=member_desktop)
+- [DevOps - Ansible automation](https://www.linkedin.com/posts/selvamraju007_ansible-ansibleautomation-letsgrowtogether-activity-7011699383511527424-dQmP?utm_source=share&utm_medium=member_desktop)
+- [DevOps - Kubernetes Helm](https://www.linkedin.com/posts/selvamraju007_kubernetes-helm-letsgrowtogether-activity-7012060447621222400-WU5z?utm_source=share&utm_medium=member_desktop)
+- [DevOps- Kubernetes - Securing Kubernetes Cluster Components](https://www.linkedin.com/posts/selvamraju007_kubernetescluster-security-letsgrowtogether-activity-7033755646076338176-M0bR?utm_source=share&utm_medium=member_desktop)
+- [DevOps- Query Node Logs Using The Kubelet API](https://www.linkedin.com/posts/selvamraju007_kubernetes-logs-cloudnloud-activity-7055423937026932736-uYkk?utm_source=share&utm_medium=member_desktop)
+- [DevOps- Security Configuration in Kubelet API](https://www.linkedin.com/posts/selvamraju007_security-kubernates-api-activity-7071734972830658560-yzTy?utm_source=share&utm_medium=member_desktop)
+- [CNCF- Crossplane](https://www.linkedin.com/posts/selvamraju007_crossplane-kubernetescluster-cncf-activity-7074293334688616448-XFBp?utm_source=share&utm_medium=member_desktop)
+- [CNCF- Thanos](https://www.linkedin.com/posts/selvamraju007_thanos-prometheus-cncf-activity-7077541300417269763-RIj9?utm_source=share&utm_medium=member_desktop)
+- [CNCF- Falco](https://www.linkedin.com/posts/selvamraju007_falco-cncf-kubernetes-activity-7083052917720547328-HMbh?utm_source=share&utm_medium=member_desktop)
+- [CNCF- FluxCD](https://www.linkedin.com/posts/selvamraju007_flux-gitops-kubernetes-activity-7084470881359441920-pvki?utm_source=share&utm_medium=member_desktop)
+- [CNCF- Rook](https://www.linkedin.com/posts/selvamraju007_rook-storage-persistentsystems-activity-7086642657724157952-WYhJ?utm_source=share&utm_medium=member_desktop)
+- [CNCF- Longhorn](https://www.linkedin.com/posts/selvamraju007_longhorn-storage-persistentsystems-activity-7089131540785344512-RN4a?utm_source=share&utm_medium=member_desktop)
+  
 
 ## 𝗠𝘆 𝗖𝗼𝗹𝗹𝗲𝗴𝗲 𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻 𝘁𝗼 𝗠𝗲𝗻𝘁𝗼𝗿 𝗬𝗼𝘂𝗻𝗴 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗶𝗼𝗻 𝗶𝗻 𝗔𝗪𝗦𝗖𝗟𝗢𝗨𝗗
 
