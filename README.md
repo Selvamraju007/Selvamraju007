@@ -66,16 +66,43 @@ India Resident.
 
 ## BLOGS
 
-- [DevOps-  (𝐑𝐨𝐚𝐝 𝐦𝐚𝐩 𝐭𝐨 𝐛𝐞𝐜𝐨𝐦𝐞 𝐀𝐖𝐒 𝐃𝐚𝐭𝐚 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫- 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝘀𝗸𝗶𝗹𝗹𝘀)](https://medium.com/cloudnloud/want-to-become-a-aws-data-engineer-94f441454334)
-- [AWS Cloud Services - AWS GLUE (𝗔𝗪𝗦 𝗚𝗹𝘂𝗲 𝗘𝘅𝗽𝗹𝗮𝗶𝗻𝗲𝗱 — 𝗧𝗵𝗲 𝗘𝗧𝗟 𝗣𝗿𝗼𝗰𝗲𝘀𝘀 𝗞𝗲𝘆 𝗖𝗼𝗺𝗽𝗼𝗻𝗲𝗻𝘁𝘀)](https://rb.gy/79pay)
-- [AWS Cloud Services - Amazon QuickSight (𝗔𝗺𝗮𝘇𝗼𝗻 𝗤𝘂𝗶𝗰𝗸𝗦𝗶𝗴𝗵𝘁 — 𝗔 𝗖𝗹𝗼𝘂𝗱 𝗗𝗮𝘁𝗮 𝗩𝗶𝘀𝘂𝗮𝗹𝗶𝘇𝗮𝘁𝗶𝗼𝗻 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝘁 𝗦𝗲𝗿𝘃𝗶𝗰𝗲𝘀)](https://rb.gy/22jzk)
-- [AWS Cloud Services - 𝗔𝗪𝗦 𝗥𝗲𝗱𝘀𝗵𝗶𝗳𝘁 , How to work with streaming data in Redshift](https://rb.gy/9ja9i)
-- [AWS Cloud Services - 𝗔𝗪𝗦 𝗘𝗹𝗮𝘀𝘁𝗶𝗰 𝗕𝗲𝗮𝗻𝘀𝘁𝗮𝗹𝗸, 𝗗𝗲𝗽𝗹𝗼𝘆 𝘆𝗼𝘂𝗿 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀](https://rb.gy/0bko0)
-- [CI/CD (𝗖𝗜/𝗖𝗗 𝗣𝗶𝗽𝗲𝗹𝗶𝗻𝗲 𝗙𝗹𝗼𝘄 𝗘𝘅𝗽𝗹𝗮𝗶𝗻𝗲𝗱](https://rb.gy/dmhpo)
-- [Reviewed an AWS Article for a AWS Community Builder (𝗛𝗼𝘄 𝘁𝗼 𝗿𝗲𝗳𝗮𝗰𝘁𝗼𝗿 𝗮 𝟯-𝘁𝗶𝗲𝗿 𝗮𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻 𝘁𝗼 𝗦𝗲𝗿𝘃𝗲𝗿𝗹𝗲𝘀𝘀 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲)](https://shorturl.ac/7an7f)
+- [DevOps- Setting up K8s Cluster using LXC/LXD](https://medium.com/cloudnloud/setting-up-k8s-cluster-using-lxc-lxd-58f0c288af3e)
+- [DevOps- How To Create EKS Cluster using terraform](https://medium.com/cloudnloud/how-to-create-eks-cluster-using-terraform-3f5ea8229ef0)
+- [DevOps- How To Setup Kubernetes Cluster Using Kubeadm: A Complete Guide !](https://medium.com/cloudnloud/how-to-setup-kubernetes-cluster-using-kubeadm-a-complete-guide-66a2ca11e3c0)
+- [DevOps- Setting up Packer and Automate AMI Creation](https://medium.com/cloudnloud/setting-up-packer-and-automate-ami-creation-20e544d01c96)
+- [DevOps- Automating Microsoft Windows servers using Ansible](https://medium.com/cloudnloud/automating-microsoft-windows-servers-using-ansible-6792cb89d588)
+- [DevOps- Kubernetes Cluster Objects and Configuration Explanation](https://medium.com/cloudnloud/kubernetes-cluster-objects-and-configuration-explanation-c6d001fcef17)
+- [DevOps- Ansible Playbook With Jenkins Pipeline](https://medium.com/cloudnloud/ansible-playbook-with-jenkins-pipeline-1bd981d4fe2f)
+- [DevOps- Kubernetes- Configure Liveness, Readiness and Startup Probes](https://medium.com/cloudnloud/kubernetes-configure-liveness-readiness-and-startup-probes-4e41a9863261)
+- [DevOps- Terraform- Kubernetes Deployment](https://medium.com/cloudnloud/terraform-kubernetes-deployment-95852fdffef8)
+- [DevOps- Customize your terminal using OhMyZsh — Agnoster theme](https://medium.com/cloudnloud/customize-your-terminal-using-ohmyzsh-agnoster-theme-1f0bc50716ef)
+- [DevOps- Introducing KWOK: Kubernetes WithOut Kubelet](https://medium.com/cloudnloud/introducing-kwok-kubernetes-without-kubelet-bf013a294f94)
+- [DevOps- Introduction to YAML](https://medium.com/cloudnloud/introduction-to-yaml-f01139bc684)
+- [DevOps- Upgrade Jenkins Version on Linux server](https://medium.com/cloudnloud/upgrade-jenkins-version-on-linux-server-f6162972e8b)
+- [DevOps- GIT Branching Strategies](https://medium.com/cloudnloud/git-branching-strategies-a6eafe4541ae)
+- [DevOps- Kubernetes Troubleshooting Steps](https://medium.com/cloudnloud/kubernetes-troubleshooting-steps-a7a97dfeb186)
+- [DevOps- Microservices with Containers](https://medium.com/cloudnloud/microservices-with-containers-6cec7d89b746)
+- [DevOps- K8sGPT for GPT Models](https://medium.com/@selvamraju007/k8sgpt-for-gpt-models-7ad02f22d5f6)
+- [DevOps- How to Create PV and PVC with Terraform](https://medium.com/cloudnloud/how-to-create-pv-and-pvc-with-terraform-c351ced140ff)
+- [DevOps- Kubernetes Helm Chart Overview](https://medium.com/cloudnloud/kubernetes-helm-chart-overview-5666a9432ba2)
+- [DevOps- Kubernetes Pod Sizing](https://medium.com/cloudnloud/kubernetes-pod-sizing-9dbac1de29a6)
+- [DevOps- Kubernetes Logging Best Practices](https://medium.com/cloudnloud/kubernetes-logging-best-practices-2e9e60bcfe40)
+- [DevOps- Guide: Create Jenkins pipeline- Java8 for Build and Java11 for SonarQube](https://medium.com/cloudnloud/guide-create-jenkins-pipeline-java8-for-build-and-java11-for-sonarqube-7d9331262330)
+- [DevOps- Install Linux on Windows with WSL](https://medium.com/@selvamraju007/install-linux-on-windows-with-wsl-138ae3f27643)
+- [DevOps- Connect GCP VM Instances with VS Code on Windows 10](https://medium.com/cloudnloud/connect-gcp-vm-instances-with-vs-code-on-windows-10-c442d1544db3)
+- [DevOps- Install and Launch Ubuntu 22.04 Desktop on Google Cloud](https://medium.com/cloudnloud/install-and-launch-ubuntu-22-04-desktop-on-google-cloud-1fba8c0f9585)
+- [DevOps- Install ELK stack in Docker to Monitor Containers](https://medium.com/cloudnloud/install-elk-stack-in-docker-to-monitor-containers-e3c5d5b60bf7)
+- [DevOps- Simplifying Kubernetes Policy Management with Kyverno: Installation Guide](https://medium.com/cloudnloud/simplifying-kubernetes-policy-management-with-kyverno-installation-guide-f480f1f30642)
+- [DevOps- Crossplane Introduction](https://medium.com/cloudnloud/crossplane-introduction-1ccd77d6aa12)
+- [DevOps- cert-manager Overview](https://medium.com/cloudnloud/cert-manager-overview-7eabd8e6965)
+- [DevOps- cert-manger use case- How to deploy cert-manager and How to configure it to get Certificates for the Nginx controller from Let’s Encrypt](https://medium.com/cloudnloud/cert-manger-use-case-how-to-deploy-cert-manager-and-how-to-configure-it-to-get-certificates-for-8da2a7e2396)
+- [DevOps- Falco Introduction and Installation demo on Kubernetes](https://medium.com/cloudnloud/falco-introduction-and-installation-demo-on-kubernetes-b6b75d756914)
+- [DevOps- FluxCD: Introduction and Installation Demo](https://medium.com/cloudnloud/fluxcd-introduction-and-installation-demo-fb9fe0cb7555)
+- [DevOps- Introduction and Demo to the Linkerd Service Mesh](https://medium.com/cloudnloud/introduction-and-demo-to-the-linkerd-service-mesh-560fc792ca74)
+- [DevOps- CloudCasa Overview and Backup Demo](https://medium.com/cloudnloud/cloudcasa-overview-and-backup-demo-8bbb6f7f6be7)
         
   **Upcoming Blog** <br />
-How business can make Decision on chossing Databases in AWS <br />
+Exploring various CNCF tools <br />
 
 
 ## My TECHNICAL CONTRIBUTION - DevOps 
@@ -125,7 +152,7 @@ How business can make Decision on chossing Databases in AWS <br />
 ## ROLE 1: # 𝗔𝗪𝗦 𝗗𝗮𝘁𝗮 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 𝗟𝗲𝗮𝗱𝗲𝗿 @CloudnLoud Tech Community
 
 <P>
-I am part of CloudnLoud Tech Community as 𝗔𝗪𝗦 𝗗𝗮𝘁𝗮 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 𝗟𝗲𝗮𝗱𝗲𝗿 where I work on AWS POCs and explore the AWSservices. I have been contributing to the communities by AWS Posts and Blogs , Technical AWS meetups ,teaching AWS in simple ways and clarifying doubts with respect to AWS and the services.
+I am part of CloudnLoud Tech Community as **CNCF** 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 𝗟𝗲𝗮𝗱𝗲𝗿 where I work on AWS POCs and explore the AWSservices. I have been contributing to the communities by AWS Posts and Blogs , Technical AWS meetups ,teaching AWS in simple ways and clarifying doubts with respect to AWS and the services.
 We are part of this for good cause to save millions of Cancer children.
 
 - [My 𝘼𝙒𝙎 𝗬𝗼𝘂𝘁𝘂𝗯𝗲 𝗩𝗶𝗱𝗲𝗼-𝗩𝗮𝗹𝗶𝗱𝗮𝘁𝗶𝗻𝗴 𝘁𝗵𝗲 𝗔𝗪𝗦 𝗦𝟯 𝘁𝗿𝗶𝗴𝗴𝗲𝗿 𝘃𝗶𝗮 𝗔𝗪𝗦 𝗟𝗮𝗺𝗯𝗱𝗮 𝗙𝘂𝗻𝗰𝘁𝗶𝗼𝗺 ](https://youtu.be/rtkR8wdxEbw)
