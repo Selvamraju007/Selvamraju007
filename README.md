@@ -123,39 +123,15 @@ Exploring various CNCF tools <br />
 - [CNCF- Longhorn](https://www.linkedin.com/posts/selvamraju007_longhorn-storage-persistentsystems-activity-7089131540785344512-RN4a?utm_source=share&utm_medium=member_desktop)
   
 
-## 𝗠𝘆 𝗖𝗼𝗹𝗹𝗲𝗴𝗲 𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻 𝘁𝗼 𝗠𝗲𝗻𝘁𝗼𝗿 𝗬𝗼𝘂𝗻𝗴 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗶𝗼𝗻 𝗶𝗻 𝗔𝗪𝗦𝗖𝗟𝗢𝗨𝗗
-
-𝗔𝗪𝗦 𝗥𝗲𝘀𝗼𝘂𝗿𝗰𝗲 𝗣𝗲𝗿𝘀𝗼𝗻 𝗳𝗼𝗿 𝗖𝗼𝗹𝗹𝗲𝗴𝗲𝘀
-- [CTTE College for Women   - AWS Cloud , AWS Career, AWS mini Projects](https://rb.gy/h791j)
-- [Jaya Engineering College - AWS Cloud , AWS Career, AWS mini Projects](https://rb.gy/rru8x) <br />
-
-  Meetup images:
-  
-<div style="display:flex;">
-  <img src="https://github.com/jananitv20/Meetups/raw/main/WhatsApp%20Image%202023-05-13%20at%203.15.03%20PM.jpeg" alt="Image 1" style="width:40%;">
-  <img src="https://github.com/jananitv20/Meetups/raw/main/WhatsApp%20Image%202023-07-01%20at%208.19.35%20PM.jpeg" alt="Image 2" style="width:40%;">
-  <img src="https://github.com/jananitv20/Meetups/raw/main/WhatsApp%20Image%202023-07-01%20at%208.19.37%20PM%20(2).jpeg" alt="Image 3" style="width:40%;">
-  <img src="https://github.com/jananitv20/Meetups/blob/main/WhatsApp%20Image%202023-06-29%20at%201.09.13%20PM.jpeg" alt="Image 4" style="width:40%;">
- 
-</div>
-
-<div style="display:flex;">
-  <img src="https://github.com/jananitv20/Meetups/raw/main/WhatsApp%20Image%202023-07-01%20at%208.19.37%20PM.jpeg" alt="Image 5" style="width:40%;">
-  <img src="https://github.com/jananitv20/Meetups/raw/main/WhatsApp%20Image%202023-07-01%20at%208.19.38%20PM.jpeg" alt="Image 6" style="width:40%;">
-  <img src="https://github.com/jananitv20/Meetups/raw/main/WhatsApp%20Image%202023-07-01%20at%208.52.20%20PM.jpeg" alt="Image 7" style="width:40%;">
-  </div>
-
-
-
 ## 𝐕𝐎𝐋𝐔𝐍𝐓𝐄𝐄𝐑𝐈𝐍𝐆 
 
-## ROLE 1: # 𝗔𝗪𝗦 𝗗𝗮𝘁𝗮 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 𝗟𝗲𝗮𝗱𝗲𝗿 @CloudnLoud Tech Community
+## ROLE 1: # **CNCF** 𝗟𝗲𝗮𝗱𝗲𝗿 @CloudnLoud Tech Community
 
 <P>
-I am part of CloudnLoud Tech Community as **CNCF** 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 𝗟𝗲𝗮𝗱𝗲𝗿 where I work on AWS POCs and explore the AWSservices. I have been contributing to the communities by AWS Posts and Blogs , Technical AWS meetups ,teaching AWS in simple ways and clarifying doubts with respect to AWS and the services.
+I am part of CloudnLoud Tech Community as **CNCF** 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 𝗟𝗲𝗮𝗱𝗲𝗿 where I work on CNCF landscape tools POCs and explore the tools. I have been contributing to the communities by CNCF Posts and Blogs , Technical CNCF meetups ,teaching CNCF in simple ways and clarifying doubts with respect to CNCF and the services.
 We are part of this for good cause to save millions of Cancer children.
 
-- [My 𝘼𝙒𝙎 𝗬𝗼𝘂𝘁𝘂𝗯𝗲 𝗩𝗶𝗱𝗲𝗼-𝗩𝗮𝗹𝗶𝗱𝗮𝘁𝗶𝗻𝗴 𝘁𝗵𝗲 𝗔𝗪𝗦 𝗦𝟯 𝘁𝗿𝗶𝗴𝗴𝗲𝗿 𝘃𝗶𝗮 𝗔𝗪𝗦 𝗟𝗮𝗺𝗯𝗱𝗮 𝗙𝘂𝗻𝗰𝘁𝗶𝗼𝗺 ](https://youtu.be/rtkR8wdxEbw)
+- [Cloud Native Career RoadMap 2022 ](https://www.youtube.com/watch?v=4aogkm5jIO0)
 - [My 𝘼𝙒𝙎 𝗩𝗶𝗱𝗲𝗼 𝗼𝗻 𝟱 𝗦𝘁𝗲𝗽𝘀 𝘁𝗼 𝘀𝘁𝗮𝗿𝘁 𝘆𝗼𝘂𝗿 𝗰𝗮𝗿𝗲𝗲𝗿 in Amazon Web Service -AWS ](https://rb.gy/5xqml)
 - [AWS 𝗩𝗶𝗱𝗲𝗼 on Interviewing Senior 𝘼𝙒𝙎 𝘼𝙧𝙘𝙝𝙞𝙩𝙚𝙘𝙩 𝙘𝙪𝙢 𝘼𝙒𝙎 𝘾𝙤𝙢𝙢𝙪𝙣𝙞𝙩𝙮 𝘽𝙪𝙞𝙡𝙙𝙚𝙧 (𝘼𝙒𝙎 𝘾𝙡𝙤𝙪𝙙 𝙏𝙖𝙡𝙠 𝙬𝙞𝙩𝙝 𝙎𝙚𝙣𝙞𝙤𝙧 𝘼𝙒𝙎 𝘼𝙧𝙘𝙝𝙞𝙩𝙚𝙘𝙩)](https://rb.gy/f5dl9) 
 - [I 𝗗𝗲𝗺𝗼𝗻𝘀𝘁𝗿𝗮𝘁𝗲𝗱 𝗮 𝗩𝗶𝗱𝗲𝗼 𝗵𝗮𝗻𝗱𝘀𝗼𝗻 to create 𝗔𝗪𝗦 𝗘𝗖𝟮 𝗶𝗻𝘀𝘁𝗮𝗻𝗰𝗲 and interact with linux Commands ](https://shorturl.ac/7an71)
@@ -168,16 +144,16 @@ We are part of this for good cause to save millions of Cancer children.
 - [AWS Cloud Services - AWS EC2 Billing optimization Technique](https://rb.gy/qe7gb)
 
 
-## ROLE 2: # 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 𝗟𝗲𝗮𝗱𝗲𝗿 / 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 𝗖𝗼-𝗼𝗿𝗴𝗮𝗻𝗶𝘇𝗲𝗿 / 𝗖𝗟𝗼𝘂𝗱 𝗗𝗮𝘁𝗮 𝗦𝗽𝗲𝗰𝗶𝗮𝗹𝗶𝘀𝘁 @𝗖𝗹𝗼𝘂𝗱𝗻𝗹𝗼𝘂𝗱 𝗗𝗮𝘁𝗮/𝗚𝗲𝗻 𝗔𝗜/𝗠𝗟 𝗟𝗮𝗯𝘀 𝗜𝗻𝗱𝗶𝗮
+## ROLE 2: # 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 𝗟𝗲𝗮𝗱𝗲𝗿 / 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 𝗖𝗼-𝗼𝗿𝗴𝗮𝗻𝗶𝘇𝗲𝗿 / **CNCF** 𝗦𝗽𝗲𝗰𝗶𝗮𝗹𝗶𝘀𝘁 @**Cloud Native Europe & UK**
 
 <P>
-I am part of 𝗖𝗹𝗼𝘂𝗱𝗻𝗹𝗼𝘂𝗱 𝗗𝗮𝘁𝗮/𝗚𝗲𝗻 𝗔𝗜/𝗠𝗟 𝗟𝗮𝗯𝘀 𝗜𝗻𝗱𝗶𝗮 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 Core team and Leading AWS Data team.
+I am part of **Cloud Native Europe & UK** 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 Core team and Leading CNCF team.
 
-I Organzie tech talk and physical AWS meetups , also Travel to college to mentor studnets to learn AWSCLOUD.
+I Organzie tech talk and physical CNCF meetups, also taking virtual meetups.
 
-At Cloudnloud Data/Gen AI/ML Labs India, we are organizing free AWS tech sessions , technical trainings and technical discussions on various IT technologies & open source tools.
+At Cloud Native Europe & UK, we are organizing free CNCF tech sessions , technical trainings and technical discussions on various IT technologies & open source tools.
 
-# I am Leader and Co-organizer at CloudnLoud Data/Gen AL/ML Labs India with around 1000 Followers
+# I am Leader and Co-organizer at Cloud Native Europe & UK with around 1000 Followers
 
 <a href="https://www.meetup.com/cloudnloud-genai-labs/members/?op=leaders" target="_blank">
 <img src=https://img.shields.io/static/v1?style=for-the-badge&message=Meetup&color=ED1C40&logo=Meetup&logoColor=FFFFFF&label= alt=meetup style="margin-bottom: 5px;" />
