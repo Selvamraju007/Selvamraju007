@@ -132,16 +132,13 @@ I am part of CloudnLoud Tech Community as **CNCF** 𝗖𝗼𝗺𝗺𝘂𝗻𝗶�
 We are part of this for good cause to save millions of Cancer children.
 
 - [Cloud Native Career RoadMap 2022 ](https://www.youtube.com/watch?v=4aogkm5jIO0)
-- [My 𝘼𝙒𝙎 𝗩𝗶𝗱𝗲𝗼 𝗼𝗻 𝟱 𝗦𝘁𝗲𝗽𝘀 𝘁𝗼 𝘀𝘁𝗮𝗿𝘁 𝘆𝗼𝘂𝗿 𝗰𝗮𝗿𝗲𝗲𝗿 in Amazon Web Service -AWS ](https://rb.gy/5xqml)
-- [AWS 𝗩𝗶𝗱𝗲𝗼 on Interviewing Senior 𝘼𝙒𝙎 𝘼𝙧𝙘𝙝𝙞𝙩𝙚𝙘𝙩 𝙘𝙪𝙢 𝘼𝙒𝙎 𝘾𝙤𝙢𝙢𝙪𝙣𝙞𝙩𝙮 𝘽𝙪𝙞𝙡𝙙𝙚𝙧 (𝘼𝙒𝙎 𝘾𝙡𝙤𝙪𝙙 𝙏𝙖𝙡𝙠 𝙬𝙞𝙩𝙝 𝙎𝙚𝙣𝙞𝙤𝙧 𝘼𝙒𝙎 𝘼𝙧𝙘𝙝𝙞𝙩𝙚𝙘𝙩)](https://rb.gy/f5dl9) 
-- [I 𝗗𝗲𝗺𝗼𝗻𝘀𝘁𝗿𝗮𝘁𝗲𝗱 𝗮 𝗩𝗶𝗱𝗲𝗼 𝗵𝗮𝗻𝗱𝘀𝗼𝗻 to create 𝗔𝗪𝗦 𝗘𝗖𝟮 𝗶𝗻𝘀𝘁𝗮𝗻𝗰𝗲 and interact with linux Commands ](https://shorturl.ac/7an71)
-- [AWS Data Brainstrom Session with Cloudnloud Tech Community](https://rb.gy/soutj)
-- [My 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗔𝗪𝗦 𝗘𝘃𝗲𝗻𝘁 𝘄𝗶𝘁𝗵 𝗔𝗪𝗦 𝗔𝗺𝗯𝗮𝘀𝘀𝗮𝗱𝗼𝗿 alongside Senior AWS Architects (𝗢𝗿𝗴𝗮𝗻𝗶𝘇𝗲𝗱 𝗔𝗪𝗦 𝗠𝗲𝗲𝘁𝘂𝗽𝘀 𝗳𝗼𝗿 𝗘𝘅𝗽𝗲𝗿𝘁 𝗧𝗲𝗰𝗵𝗧𝗮𝗹𝗸)](https://rb.gy/5hugo)
-- [AWS SUMMIT Mumbai event certificate](https://rb.gy/7yap2)
-- [AWS Cloud Certification - Roadmap to certification and levels](https://rb.gy/xop4e)
-- [AWS Cloud Services - 6 Reasons why Cloud Computing is Future](https://shorturl.ac/7an7i)
-- [My Oscar Award from AWS Community Builder](https://rb.gy/vcu3h)
-- [AWS Cloud Services - AWS EC2 Billing optimization Technique](https://rb.gy/qe7gb)
+- [DevOps- Crossplane Introduction](https://medium.com/cloudnloud/crossplane-introduction-1ccd77d6aa12)
+- [DevOps- cert-manager Overview](https://medium.com/cloudnloud/cert-manager-overview-7eabd8e6965)
+- [DevOps- cert-manger use case- How to deploy cert-manager and How to configure it to get Certificates for the Nginx controller from Let’s Encrypt](https://medium.com/cloudnloud/cert-manger-use-case-how-to-deploy-cert-manager-and-how-to-configure-it-to-get-certificates-for-8da2a7e2396)
+- [DevOps- Falco Introduction and Installation demo on Kubernetes](https://medium.com/cloudnloud/falco-introduction-and-installation-demo-on-kubernetes-b6b75d756914)
+- [DevOps- FluxCD: Introduction and Installation Demo](https://medium.com/cloudnloud/fluxcd-introduction-and-installation-demo-fb9fe0cb7555)
+- [DevOps- Introduction and Demo to the Linkerd Service Mesh](https://medium.com/cloudnloud/introduction-and-demo-to-the-linkerd-service-mesh-560fc792ca74)
+- [DevOps- CloudCasa Overview and Backup Demo](https://medium.com/cloudnloud/cloudcasa-overview-and-backup-demo-8bbb6f7f6be7)
 
 
 ## ROLE 2: # 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 𝗟𝗲𝗮𝗱𝗲𝗿 / 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 𝗖𝗼-𝗼𝗿𝗴𝗮𝗻𝗶𝘇𝗲𝗿 / **CNCF** 𝗦𝗽𝗲𝗰𝗶𝗮𝗹𝗶𝘀𝘁 @**Cloud Native Europe & UK**
