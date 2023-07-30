@@ -155,35 +155,6 @@ At Cloud Native Europe & UK, we are organizing free CNCF tech sessions , technic
 
 # I am Leader and Co-organizer at Cloud Native Europe & UK with around 1000 Followers
 
-<a href="https://www.meetup.com/cloudnloud-genai-labs/members/?op=leaders" target="_blank">
-<img src=https://img.shields.io/static/v1?style=for-the-badge&message=Meetup&color=ED1C40&logo=Meetup&logoColor=FFFFFF&label= alt=meetup style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://www.linkedin.com/company/aws-data-user-group-bangalore" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-
-𝗔𝗪𝗦 𝗧𝗲𝗰𝗵 𝗠𝗲𝗲𝘁𝘂𝗽:
-- [My 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗔𝗪𝗦 𝗺𝗲𝗲𝘁𝘂𝗽 𝘄𝗶𝘁𝗵 𝗔𝗪𝗦 𝗔𝗺𝗯𝗮𝘀𝘀𝗮𝗱𝗼𝗿 alongside Senior AWS Architects (𝗢𝗿𝗴𝗮𝗻𝗶𝘇𝗲𝗱 𝗔𝗪𝗦 𝗠𝗲𝗲𝘁𝘂𝗽𝘀 𝗳𝗼𝗿 𝗘𝘅𝗽𝗲𝗿𝘁 𝗧𝗲𝗰𝗵𝗧𝗮𝗹𝗸)](https://rb.gy/fr13j)  
-- [𝗔𝗪𝗦 𝗪𝗼𝗿𝗸𝘀𝗵𝗼𝗽 𝗳𝗼𝗿 𝗖𝗼𝗹𝗹𝗲𝗴𝗲 𝗦𝘁𝘂𝗱𝗲𝗻𝘁𝘀 on AWS Career guidance and its services](https://rb.gy/lzbrh)  
-I'm Speaking and demonstrating at 𝗖𝗹𝗼𝘂𝗱𝗻𝗹𝗼𝘂𝗱 𝗗𝗮𝘁𝗮/𝗚𝗲𝗻 𝗔𝗜/𝗠𝗟 𝗟𝗮𝗯𝘀 𝗜𝗻𝗱𝗶𝗮 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 <br />
-𝗧𝗼𝗽𝗶𝗰 : 𝗖𝗿𝗲𝗮𝘁𝗶𝗻𝗴 𝗘𝗧𝗟 𝗽𝗶𝗽𝗲𝗹𝗶𝗻𝗲 𝗳𝗼𝗿 𝗕𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗶𝗻𝘀𝗶𝗴𝗵𝘁 𝘂𝘀𝗶𝗻𝗴 𝗔𝗪𝗦 𝗚𝗹𝘂𝗲
-- [AWS Cloud Services - AWS Glue](https://rb.gy/sdtmx)
-</p>
-
-# images :)
-
-<div style="display:flex;">
-  <img src="https://github.com/jananitv20/Meetups/blob/main/AWS%20SUMMIT.jpeg" alt="Image 10" style="width:30%;">
-  <img src="https://github.com/jananitv20/Meetups/blob/main/ambas.jpeg" alt="Image 11" style="width:30%;">
-  <img src="https://github.com/jananitv20/Meetups/blob/main/Jaya.jpeg" alt="Image 12" style="width:30%;">
-  <img src="https://github.com/jananitv20/Meetups/blob/main/Screenshot%202023-07-02%20210136.png" alt="Image 12" style="width:30%;"> 
-  <img src="https://github.com/jananitv20/Meetups/blob/main/ctte.jpeg" alt="Image 13" style="width:30%;">
-  <img src="https://github.com/jananitv20/Meetups/blob/main/boomi%20(2).jpeg" alt="Image 14" style="width:30%;">
-  <img src="https://github.com/jananitv20/Meetups/blob/main/b2.jpeg" alt="Image 15" style="width:30%;">
-  <img src="https://github.com/jananitv20/Meetups/blob/main/aws%20interview.png" alt="Image 16" style="width:30%;">
-</div>
-
 
 # AWS Cloud Free 2 months Internship - Week 1 (Content Contribution)
 
