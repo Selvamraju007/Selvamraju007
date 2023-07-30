@@ -64,6 +64,15 @@ India Resident.
 📝 I regularly write DevOps and Cloud Blogs on [https://medium.com/@selvamraju007](https://medium.com/@selvamraju007) <br />
 📝 I consistently share my DevOps and Cloud Contents [https://www.linkedin.com/in/selvamraju007/] <br />
 
+## Meetup-Groups
+
+𝗜 𝗮𝗺 𝗹𝗲𝗮𝗱𝗶𝗻𝗴 𝘁𝗵𝗲 **CNCF** 𝘁𝗲𝗮𝗺 𝗶𝗻 𝘁𝗵𝗲 𝗲𝘀𝘁𝗲𝗲𝗺𝗲𝗱 𝗖𝗹𝗼𝘂𝗱𝗻𝗹𝗼𝘂𝗱 𝗧𝗲𝗰𝗵 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 and the co-organizer of below meet-up groups.
+
+- [Cloud Native Europe & UK](https://www.meetup.com/cloud-native-europe-uk/)
+- [Cloudnloud Tech Community](https://www.meetup.com/cloudnloud/)
+- [Cloud DevOps SRE Europe & UK ](https://www.meetup.com/cloud-devops-sre-europe-uk/)
+- [Data AI ML Europe & UK](https://www.meetup.com/data-ai-ml-europe-uk/)
+
 ## BLOGS
 
 - [DevOps- Setting up K8s Cluster using LXC/LXD](https://medium.com/cloudnloud/setting-up-k8s-cluster-using-lxc-lxd-58f0c288af3e)
