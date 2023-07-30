@@ -121,7 +121,13 @@ Exploring various CNCF tools <br />
 - [CNCF- FluxCD](https://www.linkedin.com/posts/selvamraju007_flux-gitops-kubernetes-activity-7084470881359441920-pvki?utm_source=share&utm_medium=member_desktop)
 - [CNCF- Rook](https://www.linkedin.com/posts/selvamraju007_rook-storage-persistentsystems-activity-7086642657724157952-WYhJ?utm_source=share&utm_medium=member_desktop)
 - [CNCF- Longhorn](https://www.linkedin.com/posts/selvamraju007_longhorn-storage-persistentsystems-activity-7089131540785344512-RN4a?utm_source=share&utm_medium=member_desktop)
-  
+
+
+## **ACHIEVEMENTS**  
+Recently based on my efforts my blog has been published in CNCF website , also the winner of #KCDChennai2023 Blogathon.
+
+- [CNCF- Blog](https://www.cncf.io/blog/2023/07/03/kubernetes-logging-best-practices/)
+- [KCDChennai2023- Blogathon](https://www.cncf.io/blog/2023/07/03/kubernetes-logging-best-practices/)
 
 ## 𝐕𝐎𝐋𝐔𝐍𝐓𝐄𝐄𝐑𝐈𝐍𝐆 
 
