@@ -130,6 +130,7 @@ Exploring various CNCF tools <br />
 - [CNCF- FluxCD](https://www.linkedin.com/posts/selvamraju007_flux-gitops-kubernetes-activity-7084470881359441920-pvki?utm_source=share&utm_medium=member_desktop)
 - [CNCF- Rook](https://www.linkedin.com/posts/selvamraju007_rook-storage-persistentsystems-activity-7086642657724157952-WYhJ?utm_source=share&utm_medium=member_desktop)
 - [CNCF- Longhorn](https://www.linkedin.com/posts/selvamraju007_longhorn-storage-persistentsystems-activity-7089131540785344512-RN4a?utm_source=share&utm_medium=member_desktop)
+- [CNCF- Buildpacks](https://www.linkedin.com/feed/update/urn:li:activity:7091715726457122816/)
 
 
 ## **ACHIEVEMENTS**  
