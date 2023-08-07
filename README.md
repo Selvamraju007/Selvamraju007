@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 I'm **[Selvam Raju](https://www.linkedin.com/in/selvamraju007/)** ; You can call me - **Selvam**..
 
-Having 11+ years of professional experience in IT with Bachelor education (BE), 
+Having 11+ years of professional experience in IT with Bachelor of Engineering (BE), 
 
 𝙋𝙧𝙤𝙛𝙚𝙨𝙨𝙞𝙤𝙣-* <br />
 𝗪𝗼𝗿𝗸𝗶𝗻𝗴 𝗮𝘀 DevOps Consultant - DevOps and Cloud. Helped customers with contanirization (Docker, Kubernetes), Configuration management (Ansible), Iac (Terraform), CI/CD (Jenkins, FluxCD). I leverage my expertise in CNCF Landscape tool as well.  <br />
